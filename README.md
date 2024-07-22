@@ -2,6 +2,7 @@
 <h3 align="center">A passionate DevSecOps developer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fabiotrentino)
 <p align="left">
 </p>
 
