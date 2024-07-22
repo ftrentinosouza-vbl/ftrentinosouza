@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-<h3 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fabiotrentino)</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fabiotrentino)</h3>
 
 
 
